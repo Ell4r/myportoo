@@ -1,0 +1,111 @@
+.hello{
+    color:#6b1f1f ;
+}
+.photo{
+    border-radius:30%;
+    margin-right: 10px;
+}
+.little{
+    color:#6b1f1f ;
+}
+.coding{
+    color:#6b1f1f ;
+    text-align: center;
+}
+.tool{
+    margin: 100px;
+    justify-content: left;
+}
+.html{
+    height: 90px;
+    width: 100px;
+    float: left;
+    width: 16.6%;
+
+}
+.css{
+    height: 90px;
+    width: 90px;
+    float: left;
+    width: 16.6%;
+
+}
+.javascript{
+    height: 90px;
+    width: 90px;
+    float: left;
+    width: 16%;
+}
+.python{
+    height: 90px;
+    width: 90px;
+    float: left;
+    width: 16%;
+}
+.c{
+    height: 90px;
+    width: 90px;
+    float: left;
+    width: 16%;
+}
+.nodejs{
+    height: 90px;
+    width: 90px;
+    float: left;
+    width: 16%;
+}
+.reactjs{
+    height: 90px;
+    width: 90px;
+    float: left;
+    width: 16%;
+}
+#Project{
+    justify-content: center;
+    display: flex;
+    flex: 1;
+    
+}
+.container > div{
+    margin-top: 50px;
+}
+.mb-0{
+    color: #6b1f1f;
+}
+
+html{scroll-behavior: smooth;}
+.custom-header .nav-link.active {
+  background-color: silver !important;
+  color: maroon !important;
+  border-radius: 5px;
+}
+.nav-link {
+  color: maroon !important;
+  background-color: transparent !important;  
+}
+.insta{
+    height: 50px;
+    justify-content: left;
+    
+}
+.whatsapp{
+    height: 40px;
+    justify-content: left;
+    margin-left: 7px;
+}
+.email{
+    height: 40px;
+    width: 40px;
+    justify-content: left;
+    margin-left: 7px;
+}
+.h2{
+    margin-left: 100px;
+}
+
+
+
+
+
+
+  
